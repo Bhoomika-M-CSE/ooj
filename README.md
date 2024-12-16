@@ -1,2 +1,0 @@
-# ooj
-JAVA LAB
